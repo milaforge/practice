@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "test",
+            "command": "forge test -vv",
+            "type": "shell",
+            "args": [],
+            "presentation": {
+                "reveal": "always"
+            },
+            "group": "test",
+            "options": {
+                "cwd": "${fileDirname}" // Use the directory of the currently saved file
+            }
+        }
+    ]
+}

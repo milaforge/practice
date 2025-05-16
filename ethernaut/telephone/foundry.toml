@@ -1,0 +1,7 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+sender = '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266'
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

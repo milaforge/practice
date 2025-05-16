@@ -1,0 +1,79 @@
+# Vulnerability Report Template
+
+## Lines of Code
+
+- [Link 1: Description](<INSERT_LINK>)
+- [Link 2: Description](<INSERT_LINK>)
+- [Link 3: Description](<INSERT_LINK>)
+
+---
+
+## Vulnerability Details
+
+### Bug Description
+
+<Insert detailed description of the issue, including context, affected functionality, and relevant code snippets.>
+
+```solidity
+// Example of relevant code snippet
+<INSERT_CODE_SNIPPET>
+```
+
+### Root Cause Analysis
+
+<Explain the root cause of the issue, including technical specifics and references (e.g., EIPs or standards).>
+
+### Steps to Reproduce
+
+1. <Step 1>
+2. <Step 2>
+3. <Step 3>
+
+---
+
+## Impact
+
+<Describe the impact of the vulnerability on the system, users, and operations.>
+
+### Potential Exploits
+
+1. **Exploit 1:** <Description>
+2. **Exploit 2:** <Description>
+
+---
+
+## Proof of Concept
+
+```solidity
+// Example Proof of Concept
+<INSERT_PROOF_OF_CONCEPT_CODE>
+```
+
+### Test Cases
+
+1. **Test 1:** <Description>
+   ```solidity
+   <INSERT_TEST_CODE>
+   ```
+2. **Test 2:** <Description>
+   ```solidity
+   <INSERT_TEST_CODE>
+   ```
+
+---
+
+## Recommendations
+
+1. **Recommendation 1:** <Mitigation strategy or solution to the issue.>
+2. **Recommendation 2:** <Alternate approaches or additional safeguards.>
+
+---
+
+## References
+
+- [EIP-1052: Description](https://eips.ethereum.org/EIPS/eip-1052)
+- [Other Reference: Description](<INSERT_LINK>)
+
+---
+
+**Note:** All code snippets, links, and descriptions must be carefully reviewed before final submission.
